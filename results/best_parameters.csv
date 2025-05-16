@@ -1,0 +1,4 @@
+vwap_dev_threshold,stop_loss,take_profit,max_hold_minutes,min_volume,trailing_stop,score
+0.0027610070633892585,0.011798729126518857,0.03836363016531514,35,4429,0.006526006978433842,-inf
+
+
